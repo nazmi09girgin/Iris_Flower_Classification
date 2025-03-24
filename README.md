@@ -2,6 +2,7 @@
 Bu proje, Iris veri setini kullanarak üç farklı sınıflandırma modelinin (Logistic Regression, K-Nearest Neighbors (KNN) ve Decision Tree) performansını karşılaştırmayı amaçlamaktadır. Veri seti, 3 farklı Iris çiçeği türünü (Setosa, Versicolor, Virginica) sınıflandırmak için kullanılan 4 özellik (sepal length, sepal width, petal length, petal width) içerir.
 
 Proje Adımları
+
 Veri Yükleme ve Ön İşleme:
 
 Iris veri seti scikit-learn kütüphanesinden yüklenmiştir.
